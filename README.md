@@ -1,7 +1,5 @@
 # Chatbot 
 
-# 💬 Broskieshub Chatbot (Streamlit)
-
 A **rule-based chatbot** built with **Python** and **Streamlit** that can respond to user queries, tell the time/date, crack jokes, and even open a web browser — all in a simple, interactive web app.
 
 ---
